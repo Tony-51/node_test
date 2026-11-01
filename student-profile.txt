@@ -1,0 +1,8 @@
+APSIT Student Profile
+
+Name: Student
+Department: AIML
+Institute: A.P. Shah Institute of Technology
+
+This file is created as part of Jira-GitHub integration practical.
+Jira Issue: SCRUM-7
