@@ -1,0 +1,7 @@
+APSIT Website - Faculty Profile
+
+Issue: TEJ-1
+Feature: Faculty Profile
+
+This file is created as part of the Jira and GitHub
+integration practical.
